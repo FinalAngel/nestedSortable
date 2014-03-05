@@ -1,8 +1,6 @@
-**ANNOUNCEMENT**  
-
-**fork and continuuing development of of mjsarfatti/nestedSortable/tree/2.0alpha**
-
 # nestedSortable jQuery plugin
+
+**continued development of of mjsarfatti/nestedSortable/tree/2.0alpha**
 
 **nestedSortable** is a jQuery plugin that extends jQuery Sortable UI functionalities to nested lists.  
 *Note: Version 2.0 is published in branch '2.0alpha' and is available for testing. At the moment it has only been tested in Firefox and Chrome, if you work with IE feel free to give it a shot and let me know if something goes wrong.*
